@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm María Alexandra</h1>
 <h3 align="center">Fullstack developer</h3>
+
 ![Github banner](https://user-images.githubusercontent.com/73828751/128734888-cf035ec7-d916-4979-a386-2daf0a843f9e.jpg)
+
 
 
 Web developer, constantly motivated to acquire new knowledge. Thanks to this curiosity, I find myself venturing into the world of programming, I currently have front-end knowledge applying agile methodologies such as kanban and scrum and back-end knowledge with OOP, developing with clean code principles (SOLID, DRY, KISS) and application of tests. I have previously worked as an architect, which allows me to have extensive knowledge in design and user experience.

@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm María Alexandra</h1>
-<h3 align="center">A motivated fullstack developer</h3>
+<h3 align="center">Fullstack developer</h3>
+
+Web developer, constantly motivated to acquire new knowledge. Thanks to this curiosity, I find myself venturing into the world of programming, I currently have front-end knowledge applying agile methodologies such as kanban and scrum and back-end knowledge with OOP, developing with clean code principles (SOLID, DRY, KISS) and application of tests. I have previously worked as an architect, which allows me to have extensive knowledge in design and user experience.
 
 - 📫 How to reach me **alexandragalarzag@gmail.com**
 

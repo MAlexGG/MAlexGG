@@ -14,4 +14,4 @@ Web developer, constantly motivated to acquire new knowledge. Thanks to this cur
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malexgg&show_icons=true&locale=en&layout=compact" alt="malexgg" /></p>
 
-<img src="https://www.codewars.com/users/MaAGG/badges/small" alt="codewars badges"/>
+<img src="https://www.codewars.com/users/MaAGG/badges/small" alt="codewars badges" href="https://www.codewars.com/users/MaAGG"/>

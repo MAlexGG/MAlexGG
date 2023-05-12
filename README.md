@@ -3,7 +3,7 @@
 Web developer, constantly motivated to acquire new knowledge. Thanks to this curiosity, I find myself venturing into the world of programming, I currently have front-end knowledge applying agile methodologies such as kanban and scrum and back-end knowledge with OOP, developing with clean code principles (SOLID, DRY, KISS) and application of tests. I have previously worked as an architect, which allows me to have extensive knowledge in design and user experience.
 
 - 📫 How to reach me **alexandragalarzag@gmail.com**
-- Do you want to take a look at my portfolio? [Here it is](url)(https://malexgg.github.io/portfolio/#/){:target="_blank"}
+- Do you want to take a look at my portfolio? [Here it is](https://malexgg.github.io/portfolio/#/)(url){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

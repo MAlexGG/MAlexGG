@@ -5,8 +5,6 @@ Web developer, constantly motivated to acquire new knowledge. Thanks to this cur
 - 📫 How to reach me **alexandragalarzag@gmail.com**
 - Do you want to take a look at my portfolio? <a href="https://malexgg.github.io/portfolio/#/" target="_blank" rel="noopener"> **Here it is**</a>
 
-[link](https://www.google.com){:target="_blank"}
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/magalarza/" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magalarza/" height="30" width="40" /></a>

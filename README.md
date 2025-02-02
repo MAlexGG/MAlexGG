@@ -1,6 +1,6 @@
 ![Github banner](https://user-images.githubusercontent.com/73828751/128734888-cf035ec7-d916-4979-a386-2daf0a843f9e.jpg)
 
-Web developer, constantly motivated to acquire new knowledge. Thanks to this curiosity, I find myself venturing into the world of programming, I currently have front-end knowledge applying agile methodologies such as kanban and scrum and back-end knowledge with OOP, developing with clean code principles (SOLID, DRY, KISS) and application of tests. I have previously worked as an architect, which allows me to have extensive knowledge in design and user experience.
+Web developer, constantly motivated to acquire new knowledge. Thanks to this curiosity, I find myself venturing into the world of programming, I currently have front-end knowledge applying agile methodologies such as kanban and scrum and back-end knowledge with OOP, applying tests. I have previously worked as an architect, which allows me to have extensive knowledge in design and user experience.
 I'm interested in sustainability and I like to bring this knowledge to the areas in which I work, in addition to continuing training to acquire more skills and grow as a person and professional.
 
 - :briefcase: Do you want to take a look at my portfolio? <a href="https://malexgg.github.io/portfolio/#/" target="_blank" rel="noopener"> **Here it is**</a>
